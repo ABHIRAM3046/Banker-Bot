@@ -19,4 +19,4 @@ The Banker Bot is an intelligent chatbot built using AWS Lex and other AWS servi
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/banker-bot-aws.git
+   git clone https://github.com/yourusername/Banker-Bot.git

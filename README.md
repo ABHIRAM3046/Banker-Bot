@@ -79,7 +79,7 @@ The Banker Bot is an intelligent chatbot built using AWS Lex and other AWS servi
 2. Use the `Test Bot` window to interact with your bot and test various intents.
 3. Deploy the Bot by integrating it with platforms like Facebook Messenger, Slack, or a custom application.
 
-#Final Chatbot
+##Final Chatbot
 
 ![image](https://github.com/user-attachments/assets/301f7551-784d-4284-8b5c-0fb6e07e24c1)
 
